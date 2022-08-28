@@ -1,0 +1,25 @@
+{
+  "name": "tweet-clone",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Ragillio Aji",
+    "email": "lioajiragil@gmail.com"
+  },
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.1",
+    "express": "~4.16.1",
+    "harperive": "^2.0.1",
+    "lodash": "^4.17.21",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.19"
+  },
+  "engines": {
+    "node": "16.8.0"
+  }
+}
